@@ -1,2 +1,2 @@
 # odin-recipes
-The start of my Great Keto-ish Bake Off recipe website.
+This project will be the start of my Great Keto-ish Bake Off recipe website. This will demonstrate the creation of a website, starting with the index.html, and adding multiple recipe pages that include images, lists, and other relevant html skills. This will be an ongoing project with the end goal of actually creating and maintaining this website full of Keto, Keto-friendly, and Keto-adjacent recipes.
